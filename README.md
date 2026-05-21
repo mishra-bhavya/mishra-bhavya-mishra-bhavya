@@ -6,6 +6,8 @@ Focused on building real-world projects that combine AI with user interaction.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=mishra-bhavya&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=mishra-bhavya&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 🚀 Featured Projects
