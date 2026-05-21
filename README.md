@@ -1,32 +1,37 @@
 ![Banner](assets/banner.png)
+
 # Hi, I'm Bhavya 👋
 
-### 🚀 Building AI-powered systems and simulation-based experiences
-Focused on building real-world projects that combine AI with user interaction.
+Building real-world projects focused on AI, simulation, and interactive systems.
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mishra-bhavya&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mishra-bhavya&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+## 🚀 Featured Projects
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mishra-bhavya&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+- 🎮 **Foundry**  
+  Decision-based career simulation game exploring real-world choices and outcomes.
 
-### 🚀 Featured Projects
+- 🤖 **Bagheera**  
+  AI chatbot with deployed backend supporting conversational interactions.
 
-- 🎮 **Foundry** – Decision-based career simulation game  
-- 🤖 **Bagheera** – AI chatbot (backend deployed)  
-- 🏥 **CAREAI** – Nurse assistance system (hackathon project)
+- 🏥 **CAREAI**  
+  Nurse assistance dashboard built during a hackathon project.
 
 ---
 
-### ⚙️ Tech Stack
+## ⚙️ Tech Stack
+
 - Java
+- Python
 - C
-- AI/ML (foundations)
+- AI/ML Foundations
 
 ---
 
-### 🌐 Connect with me
-- GitHub: https://github.com/mishra-bhavya
+## 🌐 Connect With Me
+
 - LinkedIn: https://www.linkedin.com/in/bhavya-mishra-17122831b/
-
----
