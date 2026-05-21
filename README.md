@@ -4,9 +4,7 @@
 
 Building real-world projects focused on AI, simulation, and interactive systems.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mishra-bhavya&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mishra-bhavya&show_icons=true&theme=github_dark&hide_border=true)
 
 ---
 
