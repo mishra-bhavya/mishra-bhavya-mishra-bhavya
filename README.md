@@ -6,6 +6,8 @@ Focused on building real-world projects that combine AI with user interaction.
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mishra-bhavya&theme=algolia&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🚀 Featured Projects
 
 - 🎮 **Foundry** – Decision-based career simulation game  
@@ -20,8 +22,6 @@ Focused on building real-world projects that combine AI with user interaction.
 - AI/ML (foundations)
 
 ---
-
-[![trophy](https://vercel.app)](https://github.com)
 
 ### 🌐 Connect with me
 - GitHub: https://github.com/mishra-bhavya
