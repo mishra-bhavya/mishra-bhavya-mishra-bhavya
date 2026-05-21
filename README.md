@@ -21,6 +21,8 @@ Focused on building real-world projects that combine AI with user interaction.
 
 ---
 
+[![trophy](https://vercel.app)](https://github.com)
+
 ### 🌐 Connect with me
 - GitHub: https://github.com/mishra-bhavya
 - LinkedIn: https://www.linkedin.com/in/bhavya-mishra-17122831b/
